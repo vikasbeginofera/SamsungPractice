@@ -245,4 +245,5 @@ int main()
 
 	return 0; 
 } 
-// This code is contributed by SoM15242 
+// This code is contributed by SoM15242
+// This changes is made by vikas
